@@ -324,6 +324,10 @@ footer .container .copyright{
         font-size: 16px;
     }
 
+    .logo{
+        margin-left: 2px;
+    }
+
     .header-text h1 {
         font-size: 30px;
     }
